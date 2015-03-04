@@ -1,6 +1,6 @@
 demo_git
 ========
 
-Démo de Git
+Une démo de git qui se passe bien
 
-Nouvelle modification
+Et maintenant on midifie depuis github
